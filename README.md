@@ -18,3 +18,8 @@ RAM Module: Stores both instructions and data.
 Multiplexers & Decoders: Used for instruction decoding and data routing.
 
 Clock Signal: Synchronous execution of instructions using a manual or automatic clock.
+
+# 4-bit Microprocessor Design Overview
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/ea147339-47e6-47f9-abe9-ed003073f753" />
+
